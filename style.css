@@ -1,0 +1,11 @@
+
+img {
+    width: 30%;
+    border: 2px solid black;
+}
+button {
+    background-color: black;
+    color: #fff;
+    display: block;
+    margin: 1rem 0;
+}
